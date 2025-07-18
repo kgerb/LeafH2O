@@ -1,0 +1,5 @@
+filename,measurement,distance,mean_intensity_corr,median_intensity_corr
+measurements/250522/leaves/ahorn_gross_back/rtc/1Mes_10m_leaf_backCorr_Ahorn_gross.las,1,10m,35.38288339946581,36.120391845703125
+measurements/250522/leaves/ahorn_klein_back/rtc/1Mes_10m_leaf_backCorr_Ahorn_klein.las,1,10m,37.88090841505262,37.97088623046875
+measurements/250522/leaves/linde1_back/rtc/1Mes_10m_leaf_backCorr_Linde1.las,1,10m,50.90181577773321,50.92673110961914
+measurements/250522/leaves/linde2_back/rtc/1Mes_10m_leaf_backCorr_Linde2.las,1,10m,47.666820342282215,47.84257507324219

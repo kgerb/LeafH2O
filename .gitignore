@@ -1,6 +1,6 @@
-measurements/250522/*
-!measurements/250522/leaves/
-!measurements/250522/leaves/**    # The double asterisk (**) is a glob pattern that matches all files and directories recursively under leaves/
+measurements/250522/01*/** 
+measurements/250522/02*/** 
+measurements/250522/03*/** 
 
 .conda/
 Miniconda*  
